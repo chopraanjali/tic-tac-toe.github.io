@@ -1,0 +1,22 @@
+.board-container {
+  height: 300px;
+  width: 300px;
+  /* border: 1px solid blue; */
+}
+
+.board-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square {
+  height: 80px;
+  width: 80px;
+  font-size: xx-large;
+}
+
+.status {
+  margin: 2em;
+  font-size: larger;
+}
